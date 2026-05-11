@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://tafasel-home-ps.onrender.com/api',
+  baseURL: 'https://tafaseel-home.onrender.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
